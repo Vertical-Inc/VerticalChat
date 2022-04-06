@@ -1,0 +1,15 @@
+body {
+  background-color: #40476d;
+  font-family: sans-serif;
+  color: aliceblue;
+}
+
+.auth {
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.enter {
+  border: none;
+  margin: 0%;
+}
